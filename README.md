@@ -1,6 +1,6 @@
-Pysmell.vim (Bundle compatible)
+# pysmell.vim (Bundle compatible)
 
-# Installation Instructions 
+### Installation Instructions 
 
 To use PySmell omnicompletion from inside Vim, you have to have:
 
